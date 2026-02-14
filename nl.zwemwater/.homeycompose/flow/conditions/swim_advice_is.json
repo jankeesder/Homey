@@ -1,6 +1,7 @@
 {
   "id": "swim_advice_is",
   "title": { "en": "Swim advice is [[advice]]", "nl": "Zwemadvies is [[advice]]" },
+  "titleFormatted": { "en": "Swim advice !{{is|is not}} [[advice]]", "nl": "Zwemadvies !{{is|is niet}} [[advice]]" },
   "args": [
     { "type": "device", "name": "device", "filter": "driver_id=swimming-location" },
     {

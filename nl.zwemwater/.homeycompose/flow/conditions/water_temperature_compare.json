@@ -1,6 +1,7 @@
 {
   "id": "water_temperature_compare",
-  "title": { "en": "Water temperature is [[comparison]] [[temperature]] \u00b0C", "nl": "Watertemperatuur is [[comparison]] [[temperature]] \u00b0C" },
+  "title": { "en": "Water temperature is [[comparison]] [[temperature]] °C", "nl": "Watertemperatuur is [[comparison]] [[temperature]] °C" },
+  "titleFormatted": { "en": "Water temperature !{{is|is not}} [[comparison]] [[temperature]] °C", "nl": "Watertemperatuur !{{is|is niet}} [[comparison]] [[temperature]] °C" },
   "args": [
     { "type": "device", "name": "device", "filter": "driver_id=swimming-location" },
     {
