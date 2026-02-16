@@ -1,3 +1,3 @@
-Bekijk de actuele watertemperatuur en zwemwaterkwaliteit van meer dan 900 officiele Nederlandse zwemlocaties. De app haalt automatisch de laatste meetgegevens op van waterkaart.net, zodat je altijd weet of het veilig en lekker zwemmen is.
+View the current water temperature and swimming water quality of over 900 official Dutch swimming locations. The app automatically retrieves the latest measurements from waterkaart.net, so you always know whether it is safe and pleasant to swim.
 
-Stel Flow-automatiseringen in om een melding te krijgen als het zwemadvies verandert of de watertemperatuur een bepaalde grens bereikt.
+Set up Flow automations to receive a notification when the swim advice changes or the water temperature reaches a certain threshold.
